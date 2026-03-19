@@ -1,6 +1,6 @@
-# Pytorch Workflow
+# PyTorch Workflow
 
-An end-to-end workflow of a machine learning pipeline using Pytorch. It involves loading and processing data, building a model, training it, testing it and deploying it.
+An end-to-end workflow of a machine learning pipeline using PyTorch. It involves loading and processing data, building a model, training it, testing it and deploying it.
 
 `C1.ipynb` contains the Jupyter notebook guide.
 
